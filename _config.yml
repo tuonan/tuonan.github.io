@@ -1,0 +1,27 @@
+# Site settings
+name: tuo nan
+email: tuo_nan@163.com
+author: tuo nan
+url: http://www.tuonan.vip
+resume_site: http://www.tuonan.vip/Resume.io/
+github: https://github.com/tuonan/
+#baseurl: "/LessOrMore" 如果是***.github.io项目，不修改为空''的话，会导致JS,CSS静态资源无法找到的错误
+baseurl: ""
+description: tuonan的博客
+meta_description: tuonan;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休  
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: tuonan
+
+# 请到百度统计官网[https://tongji.baidu.com/](https://tongji.baidu.com/)申请自己的网站ID并在此处替换，否则将无法正常统计访问量
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+# 请到revolvermaps [http://www.revolvermaps.com/?target=setupgl](http://www.revolvermaps.com/?target=setupgl)申请自己的网站ID并在此处替换，否则将无法正常统计访问量
+revolvermaps: 5ytn1ssq6za
+
