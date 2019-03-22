@@ -9,9 +9,9 @@ permalink: /domains/
 
 
 | 序号 	| 域名 			| 是否出售 	| 价格 		|
-| 1    	| freebishe.com | 是 		| ￥40000 	|
+| 1    	| tuonan.vip    | 是 		| ￥4 	    |   
 | 2   	| 491891.com 	| 是 		| ￥8000 	|
-| 3   	| 419891.com 	| 是 	 	| ￥8000		|
+| 3   	| 419891.com 	| 是 	 	| ￥800     |
 | 4   	| beike.site 	| 是 	 	| ￥20000 	|
 | 5   	| wolfly.net 	| 是 	 	| ￥20000 	|
 | 6   	| hifreud.com 	| 否 	 	| 无 		|
@@ -22,4 +22,4 @@ permalink: /domains/
 联系方式：右上角-》关于-》关于作者
 
 
-微信：357148348
+qq：2932695153

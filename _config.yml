@@ -1,9 +1,9 @@
 # Site settings
-name: tuo nan
+name: Tuonan's Blog
 email: tuo_nan@163.com
-author: tuo nan
+author: Tuonan
 url: http://www.tuonan.vip
-resume_site: http://www.tuonan.vip/Resume.io/
+resume_site: http://www.tuonan.vip/resume/
 github: https://github.com/tuonan/
 #baseurl: "/LessOrMore" 如果是***.github.io项目，不修改为空''的话，会导致JS,CSS静态资源无法找到的错误
 baseurl: ""
